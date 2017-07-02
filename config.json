@@ -1,0 +1,15 @@
+{
+    "usecloud" : false,
+    "stream"   : false,
+    "google_drive": true,
+    "min_upload_frames" : 4,
+    "dropboxkey" : "YOUR_KEY",
+    "dropboxsecret" : "YOUR_SECRET_KEY",
+    "warmup" : 2,
+    "min_area" : 9000,
+    "resolution" : [640, 480],
+    "fps" : 30,
+    "min_upload_secs" : 5,
+    "deltathresh" : 5
+     
+}
